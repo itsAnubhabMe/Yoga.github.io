@@ -1,0 +1,87 @@
+.section{
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: auto;
+    max-width: 80%;
+    font-family: 'Titillium Web', sans-serif;
+    
+
+}
+.contact{
+    background-color: rgb(248, 244, 244);
+    height: 800px;
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+.text-center{
+    text-align: center;
+    padding-top: 30px;
+    font-family: 'Tiro Tamil', serif;
+    font-size: 35px;
+}
+.form{
+    margin: 25px auto;
+    max-width: 1200px;
+}
+.form-input{
+    width: 100%;
+    font-size: 19px;
+    border: 2px solid gray;
+    border-radius: 6px;
+    margin: 14px 0;
+    padding: 5px 3px;
+    font-family: 'Titillium Web', sans-serif;
+}
+.button{
+    position: absolute;
+    top: 60%;
+    right: 47%;
+    transform: translate(-50%,-50%);
+}
+.btn{
+    border: 1px;
+    color: #270404;
+    padding: 5px 20px;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: rgb(87, 137, 230);
+}
+.table{
+    padding: 100px;
+}
+.table .th{
+    padding: 400px 200px;
+}
+.text-footer{
+    
+    padding: 7px;
+    font-family: 'Tiro Tamil', serif;
+    display: flex;
+    padding-left: 1500px;
+    color: rgb(46, 4, 4);
+    margin-top: -300px;
+   
+}
+.logo1{
+    display: flex;
+    margin: 1px;
+    width: 20px;
+    padding-left: 1550px;
+    padding: -40px 1600px;
+    
+    
+}
+.logo1 img{
+    height: 200%;
+    width: 200%;
+    
+    margin: 20px;
+    cursor: pointer;
+    border-radius: 300%;
+   
+    
+
+}

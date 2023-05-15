@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Century;
+}
+header{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url(./pexels-gustavo-fring-3984371.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    min-height: 100px;
+    
+}
+
+
+
+.title{
+    position: absolute;
+    top: 20%;
+    right: 50%;
+    margin: 9%;
+}
+.title h1{
+    color: #fff;
+    font-size: 70px;
+}
+.button{
+    position: absolute;
+    top: 70%;
+   right: 81%;
+    transform: translate(-50%,-50%);
+}
+.btn{
+    border: 1px;
+    color: #fff;
+    padding: 5px 20px;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: rgb(87, 137, 230);
+}
+.para{
+    color: #fff;
+    font-size: 20px;
+    position: absolute;
+    top: 40%;
+    right: 50%;
+    margin: 9%;
+}
+.img{
+    position: relative;
+    height: 10px;
+    
+}

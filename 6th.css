@@ -1,0 +1,66 @@
+.vid{
+    width: -10%;
+    height: -10%;
+    margin-bottom: 400px;
+    padding-left: 10%;
+    padding: 400px 400px;
+}
+
+video{
+    top: 500px;
+    border: 2px solid white;
+    width: 50%;
+    height: 50%;
+    box-shadow: 0px 17px 19px;
+    
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Century;
+}
+
+.title{
+    position: absolute;
+    top: 40%;
+    left: 60%;
+}
+.title h1{
+    color: #3d0202;
+    font-size: 70px;
+}
+
+.para{
+    color: #3d0202;
+    font-size: 20px;
+    position: absolute;
+    top: 60%;
+    left: 60%;
+
+}
+.img{
+    position: relative;
+    height: 10px;
+    
+}
+.logo1{
+    position: absolute;
+    display: flex;
+    width: 20px;
+    padding-left: 1300px;
+    padding: -10px;
+    top: 65%;
+    left: 2%;
+    
+}
+.logo1 img{
+    height: 200%;
+    width: 200%;
+    padding: -40px;
+    margin: 90px;
+    cursor: pointer;
+    border-radius: 300%;
+   
+    
+
+}
